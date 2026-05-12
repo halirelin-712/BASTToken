@@ -89,3 +89,4 @@ contract BASTToken {
         }
     }
 }
+["0x1234567890123456789012345678901234567890","0xabcdefabcdefabcdefabcdefabcdefabcdefabcd","0x1111111111111111111111111111111111111111"]
